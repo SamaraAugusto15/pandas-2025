@@ -2,5 +2,7 @@
 
 Iniciando curso de pandasd com TMW
 
-Curso de Pandas realizado ao vivo de form gratuita, com gravação disponível no [YouTube](youtube.com/@teomewhy).
+Curso de Pandas realizado ao vivo de form gratuita, com gravação disponível no youtube.com/@teomewhy.
 
+#### 01
+Setup + Series
