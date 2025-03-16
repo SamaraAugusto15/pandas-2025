@@ -6,3 +6,6 @@ Curso de Pandas realizado ao vivo de form gratuita, com gravação disponível n
 
 #### 01
 Setup + Series
+
+#### 02
+Iloc
