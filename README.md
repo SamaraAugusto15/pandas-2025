@@ -8,4 +8,5 @@ Curso de Pandas realizado ao vivo de form gratuita, com gravação disponível n
 Setup + Series
 
 #### 02
-Iloc
+Iloc + Loc
+inicio de dataframes
