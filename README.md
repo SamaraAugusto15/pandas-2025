@@ -23,3 +23,5 @@ Colunas
 ### Aula 05
 Filtos
 
+### Aula 06
+Filtros não são cópias
