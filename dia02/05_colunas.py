@@ -20,7 +20,7 @@ renamed_columns = {
     "descSistemaOrigem": "SistemaOrigem"
 }
 #%%
-df =df.rename(columns=renamed_columns)
+df.rename(columns=renamed_columns)
 
 #%%
 ## OU
