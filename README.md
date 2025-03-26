@@ -25,3 +25,6 @@ Filtos
 
 ### Aula 06
 Filtros não são cópias
+
+### Aula 07
+Novas colunas e Ordenação
