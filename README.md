@@ -28,3 +28,10 @@ Filtros não são cópias
 
 ### Aula 07
 Novas colunas e Ordenação
+
+### Aula 08
+Astype e Replace
+
+
+
+
