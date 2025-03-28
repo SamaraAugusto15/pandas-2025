@@ -32,6 +32,6 @@ Novas colunas e Ordenação
 ### Aula 08
 Astype e Replace
 
-
-
+## Aula 09
+Dados faltantes
 
