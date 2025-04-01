@@ -37,3 +37,6 @@ Dados faltantes
 
 ### Aula 10
 Duplicatas
+
+### Aula 11
+Apply
