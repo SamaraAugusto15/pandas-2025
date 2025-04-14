@@ -40,3 +40,6 @@ Duplicatas
 
 ### Aula 11
 Apply
+
+### Aula 12
+Groupy by
