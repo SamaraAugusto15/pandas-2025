@@ -27,3 +27,9 @@ clientes[redes_sociais].mean()
 clientes[redes_sociais].sum()
 
 # %%
+num_columns = clientes.dtypes[~(clientes.dtypes == "object")].index.tolist()
+
+clientes[num_columns].mean()
+
+# %%
+clientes[num_columns].describe()
