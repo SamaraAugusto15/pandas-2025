@@ -11,6 +11,10 @@ def diff_amp(x:pd.Series):
     media = x.mean()
     return np.sqrt((amplitude - media)**2)
 
+def life_time(x:pd.Series):
+    dt = pd.to_datetime(x)
+    return (dt.max() - dt.min()).days
+
 idades = pd.Series([21,23,54,15,75,75,15,72,62,41])
 
 #%%
@@ -18,7 +22,8 @@ idades = pd.Series([21,23,54,15,75,75,15,72,62,41])
 (transacoes.groupby(by=["idCliente"])
             .agg({
                 "idTransacao":['count'],
-                "qtdePontos": ['sum','mean', diff_amp]
+                "qtdePontos": ['sum','mean', diff_amp],
+                "dtCriacao": [life_time]
             })
 )
 
