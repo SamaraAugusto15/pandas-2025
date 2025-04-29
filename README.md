@@ -43,3 +43,6 @@ Apply
 
 ### Aula 12
 Groupy by
+
+### Aula 13
+Merge
