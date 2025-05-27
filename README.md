@@ -53,4 +53,8 @@ Concat
 ### Aula 15
 Conexão banco de dados sql
 
+### Aula 16
+Stack
+Unstack
+Pivot
 
